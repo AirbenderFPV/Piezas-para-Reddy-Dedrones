@@ -13,10 +13,14 @@ Este repositorio esta en desarollo, referencias:
 
 ### Fundas GOPRO 7
 
-[Funda protector lente] https://www.thingiverse.com/thing:3199821  
-
-[Funda con protector lente LongRange Edition] https://www.thingiverse.com/thing:3316417   
+Pack recomendado:  
 
 [Protector lente individual] https://www.thingiverse.com/thing:2885646   
 
-[Funda simple] https://www.thingiverse.com/thing:2796363  
+[Funda simple con todos los angulos] https://www.thingiverse.com/thing:2796363  
+
+Otras:  
+
+[Funda protector lente] https://www.thingiverse.com/thing:3199821  
+
+[Funda con protector lente LongRange Edition] https://www.thingiverse.com/thing:3316417  
